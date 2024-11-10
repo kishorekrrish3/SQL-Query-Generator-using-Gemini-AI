@@ -2,6 +2,10 @@
 
 This is a simple tool built with Streamlit and Google's Gemini AI to help you generate SQL queries from plain English text prompts. The tool interprets your input, generates an SQL query, provides a sample output, and explains the query.
 
+
+**[Try the Project Here!](https://genai-sql-query-generator.streamlit.app/)**
+This link directs users to the live version of the SQL Query Generator using Gemini AI on Streamlit.
+
 ## Features
 
 - **SQL Query Generation**: Translates plain English prompts into SQL query snippets.
